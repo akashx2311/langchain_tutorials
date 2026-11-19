@@ -1,0 +1,20 @@
+[project]
+name = "langchain-practice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "huggingface-hub",
+    "langchain>=1.5.2",
+    "langchain-anthropic",
+    "langchain-core",
+    "langchain-google-genai",
+    "langchain-huggingface",
+    "langchain-openai",
+    "numpy",
+    "openai",
+    "python-dotenv",
+    "scikit-learn",
+    "transformers",
+]
