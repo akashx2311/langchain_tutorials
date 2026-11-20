@@ -16,5 +16,7 @@ dependencies = [
     "openai",
     "python-dotenv",
     "scikit-learn",
+    "torch>=2.15.0",
+    "touch>=0.1.0",
     "transformers",
 ]
