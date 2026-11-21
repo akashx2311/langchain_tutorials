@@ -5,11 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "fastembed>=0.9.1",
     "huggingface-hub",
     "langchain>=1.5.2",
     "langchain-anthropic",
+    "langchain-community>=0.4.2",
     "langchain-core",
     "langchain-google-genai",
+    "langchain-groq>=1.2.1",
+    "langchain-hana>=1.2.0",
     "langchain-huggingface",
     "langchain-openai",
     "numpy",
