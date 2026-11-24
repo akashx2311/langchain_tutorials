@@ -1,0 +1,2 @@
+[HumanMessage(content = 'I want to know the status of my oss case #12234.'),
+AIMessage(content='Your case has been forwarded to the org change development support team for the further analysis')]
